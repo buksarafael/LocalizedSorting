@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizedSorting", "LocalizedSorting\LocalizedSorting.csproj", "{9E800E98-5105-4BF2-B754-61D430A03901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E800E98-5105-4BF2-B754-61D430A03901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E800E98-5105-4BF2-B754-61D430A03901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E800E98-5105-4BF2-B754-61D430A03901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E800E98-5105-4BF2-B754-61D430A03901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB67775-06D1-4A06-BA74-7514FDF8BCD9}
+	EndGlobalSection
+EndGlobal
